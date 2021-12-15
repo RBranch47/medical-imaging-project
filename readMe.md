@@ -1,6 +1,7 @@
 # COSC 4372 Medical Imaging Project <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br />
 MRI Acquisition Simulator <br />
-Group Members (#PSID): <br />
+<br />
+**Group Members (#PSID):** <br />
 Rasean Branch - 1796238 <br />
 Thomas Tran - 1589114 <br />
 Loudy Effendi - 1778346 <br />
