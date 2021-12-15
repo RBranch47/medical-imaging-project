@@ -10,4 +10,5 @@ Emmanuel Onouha - 1787621 <br />
 **Program and Functions** <br />
 MATLAB - Provided by University of Houston <br />
 MATLAB Extension - Image Processing Toolbox <br />
-Download the extension in order for it to work <br />
+MATLAB App Designer - to create GUI and run the program <br />
+**Download the extension in order for it to work** <br />
