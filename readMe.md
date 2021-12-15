@@ -24,4 +24,4 @@ MATLAB App Designer - to create GUI and run the program <br />
 9. Save your code, and run! <br />
 10. The program should run correctly. <br />
 <br />
-*REFERENCE PROJECT:* https://github.com/thomasbdoyle/MRI-Reconstruction
+REFERENCE PROJECT: https://github.com/thomasbdoyle/MRI-Reconstruction
